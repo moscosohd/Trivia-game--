@@ -1,0 +1,3 @@
+- Created Repo - 3/27/2019
+- Added Assets to Repo - 3/27/2019
+- Created TriviaGame Class (empty for the moment) - 3/27-2019
